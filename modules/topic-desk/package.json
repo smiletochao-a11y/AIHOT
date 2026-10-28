@@ -1,0 +1,7 @@
+{
+  "name": "@aihot/topic-desk",
+  "private": true,
+  "type": "module",
+  "exports": { "./*": "./*.ts", "./web": "./web.tsx" },
+  "dependencies": { "@aihot/backend": "*", "@aihot/contracts": "*", "zod": "4.6.5" }
+}
