@@ -1,3 +1,5 @@
+> 本仓库已加入「透物志」三平台选题台（小红书、抖音、微信视频号）。登录后台访问 `/admin/topic-desk`，使用说明见 [选题台](modules/topic-desk/README.md)。当前支持人工记录和 JSON 导入，尚未自动采集平台数据。
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="docs/assets/banner-dark.png">
